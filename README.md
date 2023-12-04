@@ -1,7 +1,3 @@
-# Vehicle Tire Defect Segmentation
+# Surface Corrosion, Rust and Defect Segmentation
 
-![image](https://github.com/MainakRepositor/Tire-And-Damage/assets/64016811/68949ac1-1c8c-4703-83ec-4d48d68cde4c)
-
-
-Surface Corrosion segmentation is a critical process in automotive maintenance and safety. It involves categorizing and identifying various types of Surface Corrosion to determine the extent of wear or potential hazards. This segmentation typically includes classifying damage like punctures, cuts, cracks, bulges, and uneven tread wear. Advanced technologies such as computer vision and machine learning algorithms are often employed to automate this process, ensuring accuracy and efficiency. Effective Surface Corrosion segmentation helps in timely tire replacement, reducing the risk of accidents due to compromised tire integrity, and ultimately contributes to road safety and vehicle longevity.
-
+![image](https://github.com/MainakRepositor/Surface-Corrosion-Segmentation/assets/64016811/1f38fee1-7442-4b09-9c12-ce3889f237bb)
